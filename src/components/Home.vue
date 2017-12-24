@@ -1,0 +1,5 @@
+<template>
+	<div id="header">
+		我是头部
+	</div>
+</template>
